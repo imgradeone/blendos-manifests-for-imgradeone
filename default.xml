@@ -72,4 +72,13 @@
     <pkg>kde-utilities-meta</pkg>
     <pkg>kde-system-meta</pkg>
   </profile>
+
+  <profile name="deepin" dm="lightdm">
+    <!-- WayDroid -->
+    <pkg>waydroid-blend-git</pkg>
+    <pkg>waydroid-image</pkg>
+    <!-- deepin DDE packages -->
+    <pkg>deepin</pkg>
+    <pkg>deepin-extra</pkg>
+  </profile>
 </manifest>
